@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+div#promo {
+	width: 1000px;
+	height: 580px;
+	margin: 60px auto 30px auto;
+	background: url("../_imagens/promo.jpg") no-repeat;
+}
+
+
+video#filme {
+	display: block;
+	position: relative;
+	left: 50px;
+	top: 105px;
+	width: 440px;
+}
